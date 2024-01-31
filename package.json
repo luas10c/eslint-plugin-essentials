@@ -1,0 +1,8 @@
+{
+  "name": "eslint-plugin-essentials",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luas10c/eslint-plugin-essentials"
+  }
+}
